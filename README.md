@@ -1,10 +1,10 @@
-# Prompt Engineering for Beginners – 8-Day Practical Learning Program
+# Prompt Engineering for Beginners – Practical Learning Program
 
 ![Banner](images/banner.png)
 
 ## Overview
 
-This repository contains training materials, practical exercises, screenshots, and resources for the **Prompt Engineering for Beginners – 8-Day Practical Learning Program**.
+This repository contains training materials, practical exercises, screenshots, and resources for the **Prompt Engineering for Beginners  Practical Learning Program**.
 
 Prompt Engineering is the practice of designing and optimizing instructions for Artificial Intelligence systems to achieve accurate, reliable, and high-quality outputs. This program introduces the fundamental concepts, techniques, and practical applications of prompt engineering using modern AI tools.
 
